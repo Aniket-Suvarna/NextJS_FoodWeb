@@ -5,7 +5,7 @@ import { BsFillBasket2Fill } from "react-icons/bs";
 
 function Middle({ img1, title1, bodycont1, ingre1, Spices1, colorcode11, colorcode12, img2, title2, bodycont2, ingre2, Spices2, colorcode21, colorcode22, colorcode23, colorcode24, colorcode25 }) {
     return (
-        <div className='mt-[20px] over'>
+        <div className='mt-[20px] over overflow-hidden'>
 
             <div className='lg:grid lg:grid-cols-2 lg:gap-x-[40px] lg:ml-[20px]'>
 
