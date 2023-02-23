@@ -1,5 +1,5 @@
 import React from 'react'
-import Middle from 'MyComponents/Middle'
+import Middle from '@/MyComponents/Middle'
 
 function IndianMiddleElements() {
   return (

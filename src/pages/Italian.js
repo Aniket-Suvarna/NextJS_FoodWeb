@@ -1,4 +1,4 @@
-import ItalianHome from 'MyComponents/Italian/ItalianHome'
+import ItalianHome from '@/MyComponents/Italian/ItalianHome'
 import React from 'react'
 
 function Italian() {

@@ -1,4 +1,4 @@
-import IndianHome from 'MyComponents/Indian/IndianHome'
+import IndianHome from '@/MyComponents/Indian/IndianHome'
 import React from 'react'
 
 function Indian() {

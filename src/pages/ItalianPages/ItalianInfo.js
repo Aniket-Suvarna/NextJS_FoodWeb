@@ -1,4 +1,4 @@
-import ItalianInfoElement from 'MyComponents/Italian/ItalianComponents/ItalianInfoElement'
+import ItalianInfoElement from '@/MyComponents/Italian/ItalianComponents/ItalianInfoElement'
 import React from 'react'
 
 function ItalianInfo() {

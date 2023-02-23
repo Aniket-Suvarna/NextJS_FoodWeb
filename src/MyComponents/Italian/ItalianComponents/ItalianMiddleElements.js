@@ -1,5 +1,5 @@
 import React from 'react'
-import Middle from '../../../MyComponents/Middle'
+import Middle from '@/MyComponents/Middle'
 function ItalianMiddleElements() {
   return (
     <Middle img1="/ItalianElements/ITF1.jpg" title1="CLASSIC CHICKEN PARMESAN" bodycont1=" Classic Chicken Parmesan is the 

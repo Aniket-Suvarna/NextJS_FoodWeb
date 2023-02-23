@@ -1,4 +1,4 @@
-import Info from 'MyComponents/Info'
+import Info from '@/MyComponents/Info'
 import React from 'react'
 
 function IndianInfoElements() {

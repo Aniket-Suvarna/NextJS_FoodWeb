@@ -1,4 +1,4 @@
-import IndianInfoElements from 'MyComponents/Indian/IndianComponents/IndianInfoElements'
+import IndianInfoElements from '@/MyComponents/Indian/IndianComponents/IndianInfoElements'
 import React from 'react'
 
 function IndianInfo() {
