@@ -10,7 +10,7 @@ function Fotter() {
                 <div>
                 <img src="/quotefood.jpg"></img>
                 </div>
-                <div className="text-[30px]" style={{fontFamily:"cursive"}}>
+                <div className="lg:text-[30px] text-[13px] " style={{fontFamily:"cursive"}}>
                     <div>THE ONLY THING</div>
                     <div>I LIKE BETTER THAN</div>
                     <div>TALKING ABOUT FOOD</div>
